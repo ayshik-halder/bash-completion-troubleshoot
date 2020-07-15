@@ -37,9 +37,17 @@ fi
 
 > For queries:
 Ayshik Halder
-[Email:(mailto:halderayshik@gmail.com)
-[![facebook](https://cdn1.designhill.com/assets/dh/images/email-signature/social_media/facebook.png)](https://www.facebook.com/ayshik.godshadow)[![instagram](https://cdn1.designhill.com/assets/dh/images/email-signature/social_media/instagram.png)](https://www.instagram.com/ayshik2k)
+<p align="center">
+  <i>You can reach me on given below places. Dont forget to star my Repositories and following me on GitHub for more content.</i>
 
+  <p align="center">
+    <a href="https://twitter.com/AyshikHalder" target="_blank" alt="Twitter"><img src="https://github.com/ayshik-halder/ayshik-halder/blob/master/readme/twitter-fill.svg" ></a>
+    <a href="https://www.linkedin.com/in/ayshik-h-50aba0139/" target="_blank" alt="Linkedin"><img src="https://github.com/ayshik-halder/ayshik-halder/blob/master/readme/linkedin-fill.svg" ></a>
+    <a href="mailto:halderayshik@gmail.com" target="_blank" alt="Contact me"><img src="https://github.com/ayshik-halder/ayshik-halder/blob/master/readme/external-link-line.svg"></a>
+    <!-- <a href="https://ayshik-halder.github.io" target="_blank" alt="My site"><img src="readme/external-link-line.svg"></a> -->
+  </p>
+  
+</p>
 [  
 ](https://www.designhill.com/email-signature-generator)
 
