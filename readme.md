@@ -37,7 +37,7 @@ fi
 
 > For queries:
 Ayshik Halder
-[Email: halderayshik@gmail.com](mailto:halderayshik@gmail.com)
+[Email:(mailto:halderayshik@gmail.com)
 [![facebook](https://cdn1.designhill.com/assets/dh/images/email-signature/social_media/facebook.png)](https://www.facebook.com/ayshik.godshadow)[![instagram](https://cdn1.designhill.com/assets/dh/images/email-signature/social_media/instagram.png)](https://www.instagram.com/ayshik2k)
 
 [  
